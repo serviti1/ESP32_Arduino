@@ -1,6 +1,5 @@
-
-int Button = 12;
-int LED = 2;
+#define Button 12
+#define LED 2
 
 void setup()
 {
